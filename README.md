@@ -1,5 +1,5 @@
 # StarLabs Twitter Bot 2.1 🌟
-A powerful Python-based Twitter automation tool with multithreading support and comprehensive statistics tracking.
+A powerful Python-based Twitter automation tool with multithreading support and comprehensive statistics tracking..
 
 ## 📚 Documentation & Tutorials
 > ### [📖 English Tutorial](https://star-labs.gitbook.io/star-labs/twitter/eng)
